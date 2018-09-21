@@ -1,2 +1,4 @@
 # hello-world
-publich repository created for sharable information
+public repository created for sharable information
+this is an update version of the initial read-me file
+now, we can commit the changes
